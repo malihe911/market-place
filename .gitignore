@@ -1,0 +1,19 @@
+# پوشه‌های بی‌نیاز برای گیت
+node_modules/
+.next/
+turbo/
+.env
+
+# فایل‌های لاگ و کش
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# سیستم‌عامل ویندوز
+Thumbs.db
+.DS_Store
+
+# خروجی بیلد
+out/
+
+node_modules
