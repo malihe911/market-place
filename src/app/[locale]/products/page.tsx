@@ -1,3 +1,5 @@
+"use client";
+
 import ProductList from "@/features/products/components/productList";
 
 export default function List() {
